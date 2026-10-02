@@ -67,3 +67,4 @@ OpenTween は 2011 年時点の Tween のソースコードを起点としてい
 
 また、OpenTween のロゴなどの画像リソースは [CC BY-SA 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) の下で利用することができます。
 詳細は [OpenTween-icons](https://github.com/opentween/OpenTween-icons) のリポジトリを参照してください。
+よろしく
